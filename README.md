@@ -4,17 +4,18 @@
   <!-- Contribution Grid Snake Animation Section -->
   <img src="68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966.gif" alt="Contribution Grid Snake" width="100%" />
 
-  <!-- Reduced Gap Cyberpunk Multifunctional Dynamic Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=3500&pause=500&color=2563EB&center=true&vCenter=true&width=850&height=65&lines=TURT+INDUSTRY" alt="Turt Industry Core" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&height=45&lines=Future+of+Hardware." alt="Turt Industry Logic OS" />
+  <!-- Permanent Solid Heading (No Animation) -->
+  <h1 style="font-family: 'Orbitron', 'Arial Black', sans-serif; font-size: 42px; color: #2563EB; margin: 15px 0 0 0; letter-spacing: 2px; font-weight: 900;">TURT INDUSTRY</h1>
 
-  <p align="center" style="margin-top: 10px;">
+  <!-- Typing Animation Only for Sub-text -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&height=45&lines=Future+of+Hardware." alt="Turt Industry Logic OS" style="margin-top: 0px;" />
+
+  <p align="center" style="margin-top: 5px;">
     <strong>⚡ "Precision engineering and advanced technology manufacturing for the next generation of global infrastructure." ⚡</strong>
   </p>
 
   <!-- Industrial System Badges -->
-  <p align="center">
+  <p align="center" style="margin-top: 15px;">
     <img src="https://img.shields.io/badge/Security-Sentinel_Gateway_v4.0-blue?style=flat-square&logo=gitguardian&logoColor=white" alt="Security Protocol" />
     <img src="https://img.shields.io/badge/AI_Core-F.R.I.D.Y.I_Active-blueviolet?style=flat-square&logo=google-gemini&logoColor=white" alt="AI Agent Status" />
     <img src="https://img.shields.io/badge/Location-Colombo%2C_Sri_Lanka-050505?style=flat-square&logo=location-dot&logoColor=3b82f6" alt="Facility Node" />
