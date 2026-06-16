@@ -4,12 +4,12 @@
   <!-- Contribution Grid Snake Animation Section -->
   <img src="68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966.gif" alt="Contribution Grid Snake" width="100%" />
 
-  <br/><br/>
+  <!-- Reduced Gap Cyberpunk Multifunctional Dynamic Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=3500&pause=500&color=2563EB&center=true&vCenter=true&width=850&height=65&lines=TURT+INDUSTRY" alt="Turt Industry Core" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&height=45&lines=Future+of+Hardware." alt="Turt Industry Logic OS" />
 
-  <!-- Futuristic Cyberpunk Dynamic Header (Size Boosted) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=60&lines=+TURT+INDUSTRY+Future+of+Hardware.;" alt="Turt Industry Logic OS" />
-
-  <p align="center">
+  <p align="center" style="margin-top: 10px;">
     <strong>⚡ "Precision engineering and advanced technology manufacturing for the next generation of global infrastructure." ⚡</strong>
   </p>
 
