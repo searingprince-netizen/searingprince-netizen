@@ -6,8 +6,8 @@
 
   <br/><br/>
 
-  <!-- Futuristic Cyberpunk Dynamic Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=+TURT+INDUSTRY+Future+of+Hardware.;" alt="Turt Industry Logic OS" />
+  <!-- Futuristic Cyberpunk Dynamic Header (Size Boosted) -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=60&lines=+TURT+INDUSTRY+Future+of+Hardware.;" alt="Turt Industry Logic OS" />
 
   <p align="center">
     <strong>⚡ "Precision engineering and advanced technology manufacturing for the next generation of global infrastructure." ⚡</strong>
@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/Location-Colombo%2C_Sri_Lanka-050505?style=flat-square&logo=location-dot&logoColor=3b82f6" alt="Facility Node" />
   </p>
 </div>
-
 ---
 
 ## 🏛️ NODE SYSTEM DIRECTORY
