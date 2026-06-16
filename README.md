@@ -36,18 +36,18 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 
 ---
 
-## 🐢 CURRENT ACTIVE ARCS (PROJECTS)
+## 📊 CORE MATRIX METRICS (GITHUB ANALYTICS)
 
-| PROJECT NODE | TYPE | DESCRIPTION | STATUS |
-| :--- | :--- | :--- | :--- |
-| **[NEUROSYNC]** | Neural Array | Advanced N-Core neural feedback loops and feedback matrices. | `[ ARCHIVED ]` |
-| **[NEXA UNIT]** | Virtual Agent | Virtual Operating & Response Agent powering the ecosystem workspace. | `[ ACCESS NEXUS ]` |
-| **[NOVA CORE]** | Energy Cell | Zero-point Energy Fusion Backbone (ARC Reactor Units). | `[ ONLINE ]` |
-| **[CYBER-CORE]** | Security | AI-Driven Security protocols and Sentinel Firewall Gateways. | `[ MONITOR LOGIC ]` |
+<div align="center">
+  <!-- System Activity Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=searingprince-netizen&theme=tokyonight&hide_border=true" width="100%" alt="System Streak Analytics" />
+  
+  <br/><br/>
 
-### 🌐 Live Infrastructure
-* **Official Manufacturing Workspace:** Access the central system node at [searingprince-netizen.github.io/Turt-Industry/](https://searingprince-netizen.github.io/Turt-Industry/).
-* **Milestone Parameters:** Engineering automated embedded hardware modules, web portal architectures, and responsive local AI workspaces.
+  <!-- Hardware Analytics Components -->
+  <img src="https://github-readme-stats.vercel.app/api?username=searingprince-netizen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="System Stats Matrix" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searingprince-netizen&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ecosystem Language Array" />
+</div>
 
 ---
 
