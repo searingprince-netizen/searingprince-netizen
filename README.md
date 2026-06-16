@@ -51,21 +51,6 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 
 ---
 
-## 📊 CORE MATRIX METRICS (GITHUB ANALYTICS)
-
-<div align="center">
-  <!-- System Activity Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shan-official&theme=tokyonight&hide_border=true" width="100%" alt="System Streak Analytics" />
-  
-  <br/><br/>
-
-  <!-- Hardware Analytics Components -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shan-official&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="System Stats Matrix" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan-official&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ecosystem Language Array" />
-</div>
-
----
-
 ## 🔌 SECURE TRANSMISSION CHANNELS (CONNECT)
 
 > [!IMPORTANT]
