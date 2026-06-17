@@ -36,9 +36,15 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 
 ---
 
-## 📊 CORE MATRIX METRICS (GITHUB ANALYTICS)
-
 <div align="center">
+  <!-- Animated Typing Header (Tokyo Night Theme Color: #7aa2f7) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=CORE+MATRIX+METRICS;GITHUB+ANALYTICS+ONLINE;SYSTEM+STATS+ACTIVE" alt="Typing SVG" />
+  
+  <br/>
+  <!-- Animated Cyberpunk/Neon Divider GIF -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated line" />
+  <br/><br/>
+
   <!-- System Activity Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=searingprince-netizen&theme=tokyonight&hide_border=true" width="100%" alt="System Streak Analytics" />
   
@@ -47,6 +53,10 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   <!-- Hardware Analytics Components -->
   <img src="https://github-readme-stats.vercel.app/api?username=searingprince-netizen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="System Stats Matrix" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searingprince-netizen&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ecosystem Language Array" />
+
+  <br/><br/>
+  <!-- Closing Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated line" />
 </div>
 
 ---
@@ -79,4 +89,5 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 </p>
 
 ```tt
+F.R.I.D.Y.I. — Front Rank In Defense, Your Instinct.
 [SYSTEM LOG]: TERMINAL CODE 200 OK // READY FOR NEXT INSTRUCTION BOOSTER //
