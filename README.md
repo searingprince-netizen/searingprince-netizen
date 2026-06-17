@@ -4,8 +4,8 @@
   <!-- Contribution Grid Snake Animation Section -->
   <img src="68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966.gif" alt="Contribution Grid Snake" width="100%" />
 
-  <!-- Permanent Solid Heading (Using Orbitron Font & Blue Colour - No Animation) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&color=2563EB&center=true&vCenter=true&width=850&height=65&lines=TURT+INDUSTRY" alt="Turt Industry Core" />
+  <!-- Permanent Solid Heading (Using Orbitron Font & Blue Colour - Glitch Free Static Mode) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&color=2563EB&center=true&vCenter=true&width=850&height=65&lines=TURT+INDUSTRY&repeat=false" alt="Turt Industry Core" />
   
   <!-- Typing Animation Only for Sub-text -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=3b82f6&center=true&vCenter=true&width=850&height=45&lines=Future+of+Hardware." alt="Turt Industry Logic OS" style="margin-top: 0px;" />
