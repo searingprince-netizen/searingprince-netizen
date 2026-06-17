@@ -45,6 +45,10 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated line" />
   <br/><br/>
 
+  <!-- 🕶️ UNIQUE PROFILE VISITOR TRACKER ACTIVE -->
+  <img src="https://github-visitor-tracker.searingprince.workers.dev/" alt="Profile Visitor Tracker" />
+  <br/><br/>
+
   <!-- 🔥 NEW: Shan's Live Dynamic Workspace Metrics API 🔥 -->
   <img src="https://blue-cake-c646.searingprince.workers.dev/" width="100%" alt="Shan's Live Workspace Metrics" />
   <br/><br/>
