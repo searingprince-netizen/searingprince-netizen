@@ -1,4 +1,4 @@
-# ⚡ SYSTEM CORE: SHAN-OFFICIAL (FOUNDER @ TURT INDUSTRY)
+# ⚡CORE: SHAN-OFFICIAL (FOUNDER @ TURT INDUSTRY)
 
 <div align="center">
   <!-- Contribution Grid Snake Animation Section -->
