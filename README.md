@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Contribution Grid Snake Animation Section -->
-  <img src="68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966.gif" alt="Contribution Grid Snake" width="100%" />
+  <img src="https://i.imgur.com/x1KbuCq.gif" alt="Contribution Grid Snake" width="100%" />
 
   <!-- Permanent Solid Heading (Using Orbitron Font & Blue Colour - Glitch Free Static Mode) -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&color=2563EB&center=true&vCenter=true&width=850&height=65&lines=TURT+INDUSTRY&repeat=false" alt="Turt Industry Core" />
@@ -43,6 +43,10 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   <br/>
   <!-- Animated Cyberpunk/Neon Divider GIF -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated line" />
+  <br/><br/>
+
+  <!-- 🔥 NEW: Shan's Live Dynamic Workspace Metrics API 🔥 -->
+  <img src="https://blue-cake-c646.searingprince.workers.dev/" width="100%" alt="Shan's Live Workspace Metrics" />
   <br/><br/>
 
   <!-- System Activity Streak -->
