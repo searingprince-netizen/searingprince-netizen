@@ -31,8 +31,8 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 [RUNTIME CORE]
 │
 ├──► [F.R.I.D.Y.I AI ASSISTANT] ──► Local Speech Sync & Gemma-2-2b
-├──► [HARDWARE MATRICES]       ──► Microcontrollers, Stylus Units & Custom PCBs
-└──► [SENTINEL FIREWALL]       ──► Active Threat Isolation & Cloud Privacy
+├──► [HARDWARE MATRICES]        ──► Microcontrollers, Stylus Units & Custom PCBs
+└──► [SENTINEL FIREWALL]        ──► Active Threat Isolation & Cloud Privacy
 
 ---
 
@@ -49,7 +49,7 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   <img src="https://github-visitor-tracker.searingprince.workers.dev/" alt="Profile Visitor Tracker" />
   <br/><br/>
 
-  <!-- 🔥 NEW: Shan's Live Dynamic Workspace Metrics API 🔥 -->
+  <!-- 🔥 Shan's Live Dynamic Workspace Metrics API 🔥 -->
   <img src="https://blue-cake-c646.searingprince.workers.dev/" width="100%" alt="Shan's Live Workspace Metrics" />
   <br/><br/>
 
@@ -58,14 +58,55 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
   
   <br/><br/>
 
-  <!-- Hardware Analytics Components -->
-  <img src="https://github-readme-stats.vercel.app/api?username=searingprince-netizen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="System Stats Matrix" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searingprince-netizen&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Ecosystem Language Array" />
+  <!-- Hardware Analytics Components Matrix Fixed Side-by-Side (Table removed to fix broken icons) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=searingprince-netizen&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="System Stats Matrix" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=searingprince-netizen&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ecosystem Language Array" />
+  </p>
 
   <br/><br/>
   <!-- Closing Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated line" />
 </div>
+
+---
+
+## 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin-right: 8px;" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL Server" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" height="48" style="margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="48" height="48" style="margin-right: 8px;" />
+</p>
 
 ---
 
@@ -76,23 +117,23 @@ I am a **Developer and Hardware Prototyper** specialized in embedded systems, AI
 
 <p align="left">
   <!-- Gmail -->
-  <a href="mailto:searingprince@gmail.com">
-    <img src="https://img.shields.io/badge/Node_Email-searingprince%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=white&border=true" alt="Admin Email Link" />
+  <a href="mailto:searingprince@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect" />
   </a>
   
   <!-- WhatsApp -->
   <a href="https://wa.me/94740523507" target="_blank">
-    <img src="https://img.shields.io/badge/Comms_Array-WhatsApp_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Secure Comms Link" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Connect" />
   </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/shanofficial0?igsh=MTNhc3NxMzVsY2dhcQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Social_Feed-Instagram_Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Media Feed Link" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Connect" />
   </a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/1edoPGkpas/" target="_blank">
-    <img src="https://img.shields.io/badge/Network-Facebook_Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Network Link" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Connect" />
   </a>
 </p>
 
